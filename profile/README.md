@@ -9,7 +9,7 @@
 - Нажмите кнопку «Отправить приглашение»
 - Ожидайте некоторое время (обычно менее минуты) и примите приглашение
 - Рекомендуется сделать себя публичным участником:
-  - Откройте организацию
+  - Откройте [страницу кафедры на GitHub](https://github.com/Department-of-Media-Technology-DSTU)
   - Откройте вкладку [People](https://github.com/orgs/Department-of-Media-Technology-DSTU/people)
   - Найдите свой аккаунт
   - Поменяйте значение "Private" на "Public"
